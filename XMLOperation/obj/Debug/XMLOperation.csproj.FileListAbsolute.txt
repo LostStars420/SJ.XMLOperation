@@ -1,0 +1,6 @@
+E:\project\XMLOperation\XMLOperation\obj\Debug\XMLOperation.csprojAssemblyReference.cache
+E:\project\XMLOperation\XMLOperation\obj\Debug\XMLOperation.csproj.CoreCompileInputs.cache
+E:\project\XMLOperation\XMLOperation\bin\Debug\XMLOperation.exe
+E:\project\XMLOperation\XMLOperation\bin\Debug\XMLOperation.pdb
+E:\project\XMLOperation\XMLOperation\obj\Debug\XMLOperation.exe
+E:\project\XMLOperation\XMLOperation\obj\Debug\XMLOperation.pdb
